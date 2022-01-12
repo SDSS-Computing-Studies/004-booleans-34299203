@@ -31,3 +31,18 @@ Enter a number: 10000
 
 
 """
+
+x = input("enter a number")
+x = int(x)
+
+if x > 1000:
+    print("larger than 1000")
+
+if x > 100:
+    print("larger than 100")
+
+if x > 10:
+    print("larger than 10")
+
+if x > 0:
+    print("larger than 0")
