@@ -23,7 +23,7 @@ x = input("enter a number")
 x = int(x)
 if x < 100: 
     print("The number is smaller than 100")
-
-
 if x > 100:
     print("The number is larger than 100")
+if x == 100:
+    print("The number is 100")
