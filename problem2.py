@@ -10,6 +10,8 @@
 # Outputs:
 # "the number is an integer"
 # "the number is not an integer"
+import math
+
 x = input("enter a number")
 x = float(x)
 f = round(x)
