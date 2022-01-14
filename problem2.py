@@ -16,6 +16,6 @@ x = input("enter a number")
 x = float(x)
 f = round(x)
 if x == f:
-    print("the number is an intger")
+    print("the number is an integer")
 else:
-    print("the number is not an intger")
+    print("the number is not an integer")
