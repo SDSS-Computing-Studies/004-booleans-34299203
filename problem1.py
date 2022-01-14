@@ -13,6 +13,6 @@
 # "the number is odd"
 num = int(input("enter a number:"))
 if(num % 2) ==0:
-    print("{0} is a even number".format(num))
+    print("{0} the number is even".format(num))
 else:
-    print("{0} is a odd number".format(num))
+    print("{0} the number is odd".format(num))
