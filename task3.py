@@ -32,7 +32,7 @@ Enter a number: 10000
 
 """
 
-x = input("enter a number")
+x = input("Enter a number")
 x = float(x)
 if x > 1000 or x ==1000:
     print("The number is equal to 1000 or is larger than 1000")
@@ -45,4 +45,4 @@ else:
         else:
             if x > 0 or x ==0:
                 print("The number is 0 or a number up to 10")
-            
+
