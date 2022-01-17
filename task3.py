@@ -37,7 +37,7 @@ x = float(x)
 if x > 1000 or x ==1000:
     print("The number is equal to 1000 or is larger than 1000")
 else:
-    if x >  100 or x ==100:
+    if x > 100 or x ==100:
         print("The number is 100 or a number up to 1000")
     else:
         if x > 10 or x ==10:
