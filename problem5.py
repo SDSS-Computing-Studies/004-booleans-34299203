@@ -29,3 +29,14 @@ Enter c: 8
 the equation can not be factored
 
 """
+
+def print_factors(x):
+    print("the factors of",x,"are:")
+    for i in range(1, x + 1):
+        if x % i == 0:
+            str(i)
+            print(i)
+a = input("Enter a number")
+num = a
+
+print_factors(num)
